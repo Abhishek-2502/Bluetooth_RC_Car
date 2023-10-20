@@ -9,9 +9,6 @@
 
      Caution: Remove the jumper or switch off the battery switch before connecting the Arduino board to computer.
 
-     For more support contact me on Telegram: @UtGoTech
-
-
 */
 
 
