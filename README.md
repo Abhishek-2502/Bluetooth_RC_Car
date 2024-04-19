@@ -7,6 +7,7 @@ This repository contains the Arduino code for a Bluetooth-controlled RC car usin
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Media](#media)
 - [Troubleshooting](#troubleshooting)
 
 ## Requirements
