@@ -53,14 +53,15 @@ Before uploading the code to your Arduino, ensure you have the AFMotor library i
   - `'L'`: Turn the car left.
   - `'R'`: Turn the car right.
 
+## Media
+
+![](bluetoothcar.jpeg)
+
+
 ## Troubleshooting
 
 - **Communication Issues**: Ensure the correct RX and TX pins are connected between the HC-05 and the Arduino. Also, verify the baud rate is set correctly in both the code and the Bluetooth terminal app.
 - **Motor Issues**: Double-check the connections between the motors and the Motor Shield. Also, verify that the power source for the motors is sufficient and properly connected.
 
 
-This project is released under the [MIT License](LICENSE).
 
---- 
-
-The README file is straightforward and covers all necessary aspects of the project. Make sure the project file and the `LICENSE` file are included in your repository if you have a specific license. Let me know if you need any other improvements.
