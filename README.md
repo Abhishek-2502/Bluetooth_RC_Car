@@ -9,6 +9,7 @@ This repository contains the Arduino code for a Bluetooth-controlled RC car usin
 - [Usage](#usage)
 - [Media](#media)
 - [Troubleshooting](#troubleshooting)
+- [Author](#author)
 
 ## Requirements
 
@@ -56,7 +57,9 @@ Before uploading the code to your Arduino, ensure you have the AFMotor library i
 
 ## Media
 
-![](bluetoothcar.jpeg)
+<p align="center">
+    <img src="bluetoothcar.jpeg" height="400" width="300" alt="Error">
+</p>
 
 
 ## Troubleshooting
@@ -64,5 +67,8 @@ Before uploading the code to your Arduino, ensure you have the AFMotor library i
 - **Communication Issues**: Ensure the correct RX and TX pins are connected between the HC-05 and the Arduino. Also, verify the baud rate is set correctly in both the code and the Bluetooth terminal app.
 - **Motor Issues**: Double-check the connections between the motors and the Motor Shield. Also, verify that the power source for the motors is sufficient and properly connected.
 
+## Author
+
+Abhishek Rajput.
 
 
